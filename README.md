@@ -4,7 +4,7 @@
 <p><b>Compile with:</b> gcc -o mySystemStats systemMonitoringTool.c</p>
 <p><b>Run with:</b> ./mySystemMonitoringTool</p>
 
-<p>Program can also be run with one or more of the following flags</p>
+<p>Program can also be run with one or more of the following flags:</p>
 <ul>
   <li><em><b>--system</b></em> <br>display CPU and memory usage</li>
   <li><em><b>--user</b></em> <br>display users and their corresponding sessions</li>
