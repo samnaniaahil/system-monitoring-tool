@@ -9,7 +9,6 @@
   <li><em><b>--system</b></em> <br>display CPU and memory usage</li>
   <li><em><b>--user</b></em> <br>display users and their corresponding sessions</li>
   <li><em><b>--graphics</b></em> <br>display basic graphics for CPU usage</li>
-  <li><em><b>--graphics</b></em> <br>display basic graphics for CPU usage</li>
   <li><em><b>--samples=N</b></em> <br>number of times stats are displayed; default is 10</li>
   <li><em><b>--tdelay=N</b></em> <br>number of seconds between each sample/refresh; default is 1</li>
 </ul>
